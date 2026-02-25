@@ -67,6 +67,7 @@ I bridge the gap between business strategy and engineering delivery — managing
 | [**tess-extrude**](https://github.com/ekaratzaferis/tess-extrude) | Extrude 2D polygon outlines into `THREE.BufferGeometry` using Delaunay tessellation. Supports raw point arrays and base64-encoded SVG input. | `TypeScript` `Three.js` `WebGL` |
 | [**flexy**](https://github.com/ekaratzaferis/flexy) | A Three.js library that bends `BufferGeometry` along Bezier curves. Includes geometry wrapping, surface conforming, and an interactive live demo. | `JavaScript` `Three.js` |
 | [**drive-to-lightroomcc**](https://github.com/ekaratzaferis/drive-to-lightroomcc) | CLI tool that syncs files from a Google Drive folder directly into an Adobe Lightroom CC album via OAuth-authenticated APIs. | `Python` `Google Drive API` `Adobe API` |
+| [**mongoQueryBuilder**](https://github.com/ekaratzaferis/mongoQueryBuilder) | npm library that builds MongoDB queries from a simple, readable JSON format — making complex queries accessible to non-MongoDB users. | `JavaScript` `MongoDB` `Node.js` |
 | [**fpga_cloud_client**](https://github.com/ekaratzaferis/fpga_clould_client) | A thin FPGA client for remote desktop control — captures user input, streams over Ethernet to a cloud server, and renders back A/V output. | `Verilog` `VHDL` `C#` `C` |
 
 ---
